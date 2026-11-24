@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Pertemuan09_ARSetup.unity
     guid: 08802f9f4c3422c47a9cc617e1716cb6
+  - enabled: 1
+    path: Assets/Scenes/Pertemuan12_ARInteraction.unity
+    guid: b89adb1f87a2dfc469319fb01224e852
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: db307c4e7ab7a09448595dad67db7bfb, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
